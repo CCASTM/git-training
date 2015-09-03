@@ -1,0 +1,4 @@
+Source file of the Discovery board
+main {
+printf ("Hello World");
+}
