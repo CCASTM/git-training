@@ -1,4 +1,15 @@
 Source file of the Discovery board
 main {
 printf ("Hello World");
+
+int i,j;
+char a;
+i = 0;
+j= 21;
+a = 0x20;
+for (i=0; i< j; i++)
+{
+  a = a + i;
+}
+
 }
