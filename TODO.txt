@@ -4,3 +4,7 @@ Make an analysis and high level architecture
 List the IP drivers to be added in the project
 
 Then update the header
+
+Application lourde 
+Technologie Swing
+
