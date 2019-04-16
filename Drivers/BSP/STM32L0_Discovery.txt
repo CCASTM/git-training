@@ -1,8 +1,10 @@
 Source file of the Discovery board
+/* a comment was missing */
+
 main {
 printf ("Hello World");
-
-int i,j;
+/* declaration of local variables */
+int i,j, result;
 char a;
 i = 0;
 j= 21;
@@ -19,5 +21,7 @@ while(i<j)
 {
   a++;
 }
+
+result = i + j;
 
 }
