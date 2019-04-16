@@ -9,14 +9,14 @@ Search among the [Pull request](https://github.com/CCASTM/git-training/pulls) be
 
 * The Pull Request will be considered by STMicroelectronics only after the submitter has registered a **CLA**
   ** Print the document CLA_Request 
-  ** Fill the document as requested, Sign it, Send a paper copy to :
-	STMicroelectronics SAS
-	Legal Department
-	88500 GENEVA  
+  ** Fill the document as requested, Sign it, Send a paper copy to the address mentioned in the document
+	
+### Initial verification
+1. Please, Make sure that your PR is not a duplicate. Search among the [Pull request](https://github.com/CCASTM/git-training/pulls) before creating one.
+2. Review the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed contributing guidelines.
 
-* Then review the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed contributing guidelines.
 
-Thanks for submitting a pull request.
+### Thanks for submitting a pull request.
 Please provide enough information so that others can review your pull request:
 
 **Summary**
@@ -28,4 +28,5 @@ Please provide enough information so that others can review your pull request:
 * [ ] Breaking changes
 
 **Validation**
+
 
