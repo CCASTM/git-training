@@ -1,4 +1,4 @@
-Read the specification
+Read the specification and understand it.
 Make an analysis and high level architecture
 
 List the IP drivers to be added in the project
